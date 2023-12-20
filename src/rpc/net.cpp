@@ -5,21 +5,7 @@
 
 #include "rpc/server.h"
 
-#include "chainparams.h"
-#include "clientversion.h"
-#include "validation.h"
-#include "net.h"
-#include "net_processing.h"
-#include "netbase.h"
-#include "policy/policy.h"
-#include "protocol.h"
-#include "sync.h"
-#include "timedata.h"
-#include "ui_interface.h"
-#include "util.h"
-#include "utilmoneystr.h"
-#include "utilstrencodings.h"
-#include "version.h"
+
 
 #include <boost/foreach.hpp>
 

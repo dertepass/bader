@@ -2,18 +2,7 @@
 
 Dogecoin Core is open source software, and we would welcome contributions
 which improve the state of the software. For those wanting to discuss changes,
-or look for work that needs doing, please see:
-
-* [Help requests](https://github.com/dogecoin/dogecoin/labels/help%20wanted)
-* [Projects](https://github.com/dogecoin/dogecoin/projects)
-* [Dogecoindev on reddit](https://www.reddit.com/r/dogecoindev/)
-
-## Branch Strategy
-
-Dogecoin Core's default branch is intentionally a stable release, so that anyone
-downloading the code and compiling it gets a stable release. Active development
-occurs on branches named after the version they are targeting, for example the
-1.14.4 branch is named `1.14.4-dev`. When raising PRs, please raise against the
+.14.4-dev`. When raising PRs, please raise against the
 relevant development branch and **not** against the `master` branch.
 
 ## Contributor Workflow
